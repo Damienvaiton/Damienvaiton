@@ -1,9 +1,10 @@
-### Hi there 👋
 
-</br>
-<p style="text-align:center;", align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Damienvaiton&show_icons=true&theme=radical&count_private=true">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damienvaiton&layout=compact&theme=vision-friendly-dark&count_private=true" alt=""/>
-</p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Damienvaiton)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Damienvaiton's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Damienvaiton&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
