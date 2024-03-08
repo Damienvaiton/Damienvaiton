@@ -1,5 +1,7 @@
 <h1>Damien Vaiton's Github profile</h1>
 
+<p><span style="font-family: &quot;comic sans ms&quot;, sans-serif; color: #ff0000; font-size: medium;">Hi, my name is Damien Vaiton and I'm a student in my 3rd year of a computer science degree.</span></p>
+
 <h2>Main Languages</h2>
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
