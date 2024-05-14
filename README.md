@@ -1,6 +1,6 @@
 # Damien Vaiton's Github profile
 
-<span style="font-family: &quot;comic sans ms&quot;, sans-serif; color: #ff0000; font-size: medium;">Hi, my name is Damien Vaiton and I'm a student in my 3rd year of a computer science degree.</span>
+<span style="font-family: &quot;comic sans ms&quot;, sans-serif; color: #ff0000; font-size: medium;">Hi, my name is Damien Vaiton and I'm currently in my 3rd year of a Computer Science degree at Lyon 1 University on the Bourg en Bresse campus. Since I was a kid, I've always had a passion for computers. That's why I chose to study to become a software developer. Apart from computing, I have many other passions, such as travel, sport (mainly basketball) and the passion for medicine passed on to me by my parents.</span>
 
 ## Main Languages
 
