@@ -9,14 +9,3 @@
 ## My Socials Medias
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-vaiton/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Damienvaiton)
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damienvaiton\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
-## Time
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DamienVaiton01\&layout=compact) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damienvaiton&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-Most of my repositories are private for various reasons
